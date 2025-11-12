@@ -1,0 +1,7 @@
+build
+.cache
+compile_commands.json
+src/ports/linux_gtk/gtk_ui_originVersion.c
+src/ports/linux_gtk/gtk_ui_备份.c
+src/ports/linux_gtk/patch.diff
+src/ports/linux_gtk/gtk_ui_fixed.c
